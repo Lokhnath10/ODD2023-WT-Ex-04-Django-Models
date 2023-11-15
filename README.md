@@ -37,5 +37,6 @@ In the admin/ page you can view the models created
 And in the user_profile template page you can see the profile page of the user.
 
 ### OUTPUT:
-![Screenshot 2023-11-15 054423](https://github.com/Lokhnath10/ODD2023-WT-Ex-04-Django-Models/assets/138969918/b3cbbedf-0837-46f7-8f8d-e16f1a8b4a45)
+![image](https://github.com/Lokhnath10/ODD2023-WT-Ex-04-Django-Models/assets/138969918/ad82b686-fb4f-4a0d-ba77-a70ca83dad63)
+
 
